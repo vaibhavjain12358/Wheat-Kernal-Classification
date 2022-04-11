@@ -8,6 +8,5 @@ numpy>= 1.11.0
 scipy>=0.15.1
 scikit-learn>=0.22.1
 matplotlib>=1.4.3
-seaborn>=0.9.1
 pandas>=0.19
 Cython>= 0.28.5
