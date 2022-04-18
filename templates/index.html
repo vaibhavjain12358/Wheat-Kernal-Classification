@@ -14,14 +14,12 @@
 
 <body>
  <div class="login">
-	<h1>Wheat Kernel</h1>
+	<h1>Wheat Kernel Classification</h1>
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
-    	<input type="text" name="Area" placeholder="Area, (10-21)" required="required" />
-        <input type="text" name="Perimeter" placeholder="Perimeter, (12-18)" required="required" />
+    	
 	<input type="text" name="Compactness" placeholder="Compactness, (0.8-0.9)" required="required" />
-	<input type="text" name="Kernal_Length" placeholder="Kernal Length, (4-6.5)" required="required" />
 	<input type="text" name="Kernel_Width" placeholder="Kernel Width, (2.5-4)" required="required" />
 	<input type="text" name="Asymmetry_Coeff" placeholder="Asymmetry Coeff, (0.7-8.3)" required="required" />
 	<input type="text" name="Kernel_Groove" placeholder="Kernel Groove, (4.5-6.5)" required="required" />
