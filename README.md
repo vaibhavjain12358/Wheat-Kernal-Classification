@@ -20,23 +20,23 @@ The following are the seven seed variables:
 7.	Kernel Groove Length
 
 ## Tasks performed in the 'Wheat Kernal Classification' Jupyter notebook
-•	Data Collection
-•	Finding the right algorithms and its understanding
-•	Preparing the model using the algorithms
-•	Model Training and its evaluation
-•	Hyperparameter Tuning
-•	Model accuracy evaluation
-•	Final model deployment
+1.	Data Collection
+2.	Finding the right algorithms and its understanding
+3.	Preparing the model using the algorithms
+4.	Model Training and its evaluation
+5.	Hyperparameter Tuning
+6.	Model accuracy evaluation
+7.	Final model deployment
 
 
 ## How can this repository be used on your system
-•	Fork the repo onto your local
-•	Run the jupyter notebook, follow the steps alongside
-•	Rub the final model and save it as pickle file to call it in the FlaskApp.py file
-•	The html file and the css files can be changed as per user requirements else can be used as default
-•	Run the FlaskApp.py file to get it running onto your local machine
-Input your attribute values
-And, woah!, you get the Prediction, as shown below.
+1.	Fork the repo onto your local
+2.	Run the jupyter notebook, follow the steps alongside
+3.	Run the final model and save it as pickle file to call it in the FlaskApp.py file
+4.	The html file and the css files can be changed as per user requirements else can be used as default
+5.	Run the FlaskApp.py file to get it running onto your local machine
+6.	Input your attribute values
+7.	And, woah!, you get the Prediction, as shown below.
 
 
 
