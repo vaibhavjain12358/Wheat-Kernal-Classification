@@ -38,5 +38,18 @@ The following are the seven seed variables:
 6.	Input your attribute values
 7.	And, woah!, you get the Prediction, as shown below.
 
+Landing Page:
 
 ![alt text](https://github.com/vaibhavjain12358/Wheat-Kernal-Classification/blob/main/Predictions/LandingPage.png)
+
+‘Kama’ – Type 1 kernal prediction
+
+![alt text](https://github.com/vaibhavjain12358/Wheat-Kernal-Classification/blob/main/Predictions/Kama.png)
+
+‘Rosa’ – Type 2 kernal prediction
+
+![alt text](https://github.com/vaibhavjain12358/Wheat-Kernal-Classification/blob/main/Predictions/Rosa.png)
+
+‘Canadian’ – Type 3 Kernal prediction
+
+![alt text](https://github.com/vaibhavjain12358/Wheat-Kernal-Classification/blob/main/Predictions/Canadian.png)
