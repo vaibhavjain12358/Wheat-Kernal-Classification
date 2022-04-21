@@ -39,4 +39,4 @@ The following are the seven seed variables:
 7.	And, woah!, you get the Prediction, as shown below.
 
 
-![alt text](https://github.com/vaibhavjain12358/Wheat-Kernal-Classification/blob/main/Predictions/Landingpage.png?raw=true)
+![alt text](https://github.com/vaibhavjain12358/Wheat-Kernal-Classification/blob/main/Predictions/LandingPage.png)
